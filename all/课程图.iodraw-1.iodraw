@@ -128,6 +128,16 @@
             <mxGeometry x="20" y="21" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
+        <object label="&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;语音识别技术与应用&lt;/span&gt;" placeholders="1" id="3jYicdSFyVwaaKqkwBQV-2">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="YQIR2pmwFrzjdvwpAulY-6">
+            <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;语音识别技术与应用&lt;/span&gt;" placeholders="1" id="3jYicdSFyVwaaKqkwBQV-3">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="YQIR2pmwFrzjdvwpAulY-6">
+            <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
+          </mxCell>
+        </object>
         <mxCell id="YQIR2pmwFrzjdvwpAulY-7" style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=none;swimlaneFillColor=default;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
           <mxGeometry x="900" y="28" width="180" height="522" as="geometry" />
         </mxCell>
@@ -206,9 +216,9 @@
             <mxGeometry x="969" y="128" width="180" height="420" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;语音识别技术与应用&lt;/span&gt;" placeholders="1" id="3jYicdSFyVwaaKqkwBQV-2">
+        <object label="&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;语音识别技术与应用&lt;/span&gt;" placeholders="1" id="3jYicdSFyVwaaKqkwBQV-4">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="1">
-            <mxGeometry x="820" y="159" width="140" height="80" as="geometry" />
+            <mxGeometry x="820" y="359" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
       </root>
