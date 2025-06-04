@@ -236,8 +236,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3jYicdSFyVwaaKqkwBQV-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-66" target="3jYicdSFyVwaaKqkwBQV-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3jYicdSFyVwaaKqkwBQV-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-66" target="3jYicdSFyVwaaKqkwBQV-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="389" />
+              <mxPoint x="730" y="189" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <object label="第四学期" status="Completed" id="YQIR2pmwFrzjdvwpAulY-1">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;fontSize=14;" parent="1" vertex="1">
