@@ -151,6 +151,9 @@
         <mxCell id="YQIR2pmwFrzjdvwpAulY-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-30" target="YQIR2pmwFrzjdvwpAulY-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YQIR2pmwFrzjdvwpAulY-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-31" target="YQIR2pmwFrzjdvwpAulY-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="第四学期" status="Completed" id="YQIR2pmwFrzjdvwpAulY-1">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;fontSize=14;" vertex="1" parent="1">
             <mxGeometry x="615" y="128" width="180" height="420" as="geometry" />
