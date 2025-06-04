@@ -245,6 +245,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3jYicdSFyVwaaKqkwBQV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-66" target="3jYicdSFyVwaaKqkwBQV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="340" />
+              <mxPoint x="810" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3jYicdSFyVwaaKqkwBQV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-66" target="3jYicdSFyVwaaKqkwBQV-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="第四学期" status="Completed" id="YQIR2pmwFrzjdvwpAulY-1">
