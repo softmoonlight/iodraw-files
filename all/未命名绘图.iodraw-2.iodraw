@@ -27,7 +27,7 @@
             <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object label="DOING" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
+        <object label="第二学期" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
             <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
           </mxCell>
