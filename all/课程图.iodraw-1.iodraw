@@ -236,7 +236,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3jYicdSFyVwaaKqkwBQV-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-66" target="3jYicdSFyVwaaKqkwBQV-2">
+        <mxCell id="3jYicdSFyVwaaKqkwBQV-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-66" target="3jYicdSFyVwaaKqkwBQV-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="389" />
