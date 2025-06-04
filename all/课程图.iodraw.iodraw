@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_5mSTuPxr-ZiKRkBDSY7-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;sketch=1;disableMultiStroke=1;rounded=1;glass=0;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="_5mSTuPxr-ZiKRkBDSY7-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=4;sketch=1;disableMultiStroke=1;rounded=1;glass=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="100" width="1080" height="550" as="geometry" />
         </mxCell>
         <object label="第一学期" status="New" id="_5mSTuPxr-ZiKRkBDSY7-2">
@@ -160,7 +160,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YQIR2pmwFrzjdvwpAulY-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_5mSTuPxr-ZiKRkBDSY7-1" source="YQIR2pmwFrzjdvwpAulY-30" target="YQIR2pmwFrzjdvwpAulY-62">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="189" />
+              <mxPoint x="360" y="389" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <object label="第四学期" status="Completed" id="YQIR2pmwFrzjdvwpAulY-1">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;fontSize=14;" vertex="1" parent="1">
